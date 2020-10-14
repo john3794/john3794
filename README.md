@@ -45,18 +45,19 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Johnny's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=john3794&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-</details>
-
----
-
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=john3794&repo=cities-of-world-binarytree&theme=tokyonight)](https://github.com/john3794/cities-of-world-binarytree)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=john3794&repo=cities-of-world-binarysearchtree&theme=tokyonight
 )](https://github.com/john3794/cities-of-world-binarysearchtree)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Johnny's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=john3794&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+</details>
+
 
 [website]: https://joly.dk
 [linkedin]: https://linkedin.com/in/johnnylyy/
