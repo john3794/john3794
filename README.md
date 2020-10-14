@@ -41,11 +41,9 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john3794&layout=compact)](https://github.com/john3794)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john3794&layout=compact&theme=tokyonight)](https://github.com/john3794)
 
 ---
-
-<br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=john3794&repo=cities-of-world-binarytree&theme=tokyonight)](https://github.com/john3794/cities-of-world-binarytree)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=john3794&repo=cities-of-world-binarysearchtree&theme=tokyonight
@@ -55,6 +53,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  <br />
   <img align="left" alt="Johnny's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=john3794&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </details>
 
