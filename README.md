@@ -14,9 +14,9 @@
 [<img align="left" alt="joly.dk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Johnny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-<!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<!-- [<img align="left" alt="joly | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+<!-- [<img align="left" alt="joly | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" alt="joly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -41,7 +41,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john3794&layout=compact&theme=tokyonight)](https://github.com/john3794)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john3794&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/john3794)
 
 ---
 
@@ -54,7 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br />
-  <img align="left" alt="Johnny's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=john3794&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img align="left" alt="Johnny's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=john3794&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 </details>
 
 
