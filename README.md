@@ -7,7 +7,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: on LinkedIn and email
 - 😄 Pronouns: open-minded, ambitious, international
-- ⚡ Fun fact: I don't know why it works
 
 ### Connect with me:
 
